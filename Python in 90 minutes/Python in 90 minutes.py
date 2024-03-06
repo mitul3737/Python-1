@@ -47,7 +47,7 @@ print(bool(1))    # True
 print(bool('dog'))
 print(bool(10.78))
 print(bool(0 or 1))
-
+de,mourteghjrtdyjhtyjngfjhty
 print(bool(0))    # False
 print(bool(''))
 print(bool(0 and 1))
